@@ -6,7 +6,7 @@ libary for using the I2C  vcnl4000 light sensor
 */
 
 #include <Arduino.h>
-#include <vcnl4000.h>
+#include "vcnl4000.h"
 #include <Wire.h>
 
 vcnl4000::vcnl4000() {}
